@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Wii Call of Duty Trickshot Mods">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#1b2433"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f28c28"/>
+      <stop offset="1" stop-color="#ffb35c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="300" rx="18" fill="none" stroke="#30363d" stroke-width="2"/>
+  <g fill="none" stroke="#f28c28" stroke-opacity="0.18" stroke-width="2">
+    <circle cx="1020" cy="150" r="96"/>
+    <circle cx="1020" cy="150" r="58"/>
+    <line x1="1020" y1="30" x2="1020" y2="270"/>
+    <line x1="900" y1="150" x2="1140" y2="150"/>
+  </g>
+  <rect x="72" y="86" width="8" height="128" rx="4" fill="url(#accent)"/>
+  <text x="104" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#f0f6fc">Wii Call of Duty</text>
+  <text x="104" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="url(#accent)">Trickshot Mods</text>
+  <text x="106" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#8b949e">Killcams · Trickshot menus · Ready to play in Dolphin</text>
+</svg>
